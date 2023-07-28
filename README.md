@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=orsrva&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orsrva&repo=github-readme-stats)](https://github.com/orsrva)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=orsrva)](https://github.com/orsrva/github-readme-stats)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
