@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://www.orsrv.link"
+          feed_list: "https://www.orys.link/rss/feed.xml"
