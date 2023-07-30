@@ -1,10 +1,11 @@
 name: Blog Posts
 
 on:
+  workflow_dispatch:
   # Run workflow automatically
   schedule:
     # Runs every hour, on the hour
-    - cron: '1 * * * *'
+    - cron: '20 * * * *'
 
 jobs:
   update-readme-with-blog:
@@ -12,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: orsrva/orsrva@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://www.orys.link/rss/feed.xml"
