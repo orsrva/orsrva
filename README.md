@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twikoo 评论插件](https://www.orys.link/article/twikoo)
 - [GitHub 个人主页美化](https://www.orys.link/article/mh)
+- [Notion 汉化教程](https://www.orys.link/article/hhjc)
 - [建站记录](https://www.orys.link/article/build)
 - [Notion 常见问题](https://www.orys.link/article/np)
-- [模板使用说明](https://www.orys.link/article/guide)
-- [Notion 插件及工具推荐](https://www.orys.link/article/nt)
 <!-- BLOG-POST-LIST:END -->
