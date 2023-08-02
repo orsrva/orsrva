@@ -20,4 +20,4 @@ jobs:
         with:
           # comma-separated list of RSS feed urls
           feed_list: "https://www.orys.link/rss/feed.xml"
-          max_post_count: "5"
+          max_post_count: "6"
