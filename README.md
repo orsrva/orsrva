@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 
-#### Latest Blog Posts
+#### Latest Blog Posts | 最新博客
 
 <!-- BLOG-POST-LIST:START -->
 - [Twikoo 评论插件](https://www.orys.link/article/twikoo)
