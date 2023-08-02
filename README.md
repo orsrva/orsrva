@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - [Notion 汉化教程](https://www.orys.link/article/hhjc)
 - [建站记录](https://www.orys.link/article/build)
 - [Notion 常见问题](https://www.orys.link/article/np)
+- [Notion 插件及工具推荐](https://www.orys.link/article/nt)
 <!-- BLOG-POST-LIST:END -->
