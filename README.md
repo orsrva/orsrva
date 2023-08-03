@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 #### Latest Blog Posts | 最新博客
 
 <!-- BLOG-POST-LIST:START -->
+- [CORS ERROR](https://www.orys.link/article/cors)
 - [Twikoo 评论插件](https://www.orys.link/article/twikoo)
 - [GitHub 个人主页美化](https://www.orys.link/article/mh)
-- [Notion 汉化教程](https://www.orys.link/article/hhjc)
 - [建站记录](https://www.orys.link/article/build)
 - [Notion 常见问题](https://www.orys.link/article/np)
 - [Notion 插件及工具推荐](https://www.orys.link/article/nt)
