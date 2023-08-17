@@ -32,10 +32,10 @@ https://github-readme-stats-livid-two-38.vercel.app/api?username=soeos&show=star
 #### Latest Blog Posts | 最新博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Backblaze B2+Cloudflare+PicGo图床配置](https://www.orys.link/article/tc)
+- [PicGo+Github图床](https://www.orys.link/article/gh2)
+- [Twikoo+SMMS图床](https://www.orys.link/article/tc2)
 - [CORS ERROR](https://www.orys.link/article/cors)
 - [Twikoo 评论插件](https://www.orys.link/article/twikoo)
 - [GitHub 个人主页美化](https://www.orys.link/article/mh)
-- [建站记录](https://www.orys.link/article/build)
-- [Notion 常见问题](https://www.orys.link/article/np)
-- [Notion 插件及工具推荐](https://www.orys.link/article/nt)
 <!-- BLOG-POST-LIST:END -->
