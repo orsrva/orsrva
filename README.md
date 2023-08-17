@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 -->
-![SOEOS's GitHub stats](github-readme-stats-livid-two-38.vercel.app/api?username=soeos&show_icons=true&theme=radical)
+![SOEOS's GitHub stats](https://github-readme-stats-livid-two-38.vercel.app/api?username=soeos&show_icons=true&theme=radical)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
