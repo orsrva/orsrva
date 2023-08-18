@@ -22,6 +22,7 @@ stats-readme-github.vercel.app
 <!-- 
 ![SOEOS's GitHub stats](https://stats-readme-github.vercel.app/api?username=soeos&show_icons=true&theme=radical)
 -->
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
