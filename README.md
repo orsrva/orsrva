@@ -21,7 +21,7 @@ stats-readme-github.vercel.app
 <!-- 
 https://github-readme-stats.vercel.app/api/top-langs/?username=soeos&layout=compact&theme=vue-dark
 -->
-<img src="https://stats-readme-github.vercel.app/api/top-langs/?username=soeos&layout=compact&theme=vue-dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://stats-readme-github.vercel.app/api/top-langs/?username=soeos&layout=compact&theme=vue-dark" height="160" align="right" style="float:right;margin: 5px; margin-bottom: 20px;" />
 <!-- 
 ![SOEOS's GitHub stats](https://stats-readme-github.vercel.app/api?username=soeos&show_icons=true&theme=radical)
 -->
