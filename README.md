@@ -47,7 +47,7 @@ stats-readme-github.vercel.app
 - [cf内网穿透](https://www.orys.link/article/cfn)
 - [OneDrive公共网盘](https://www.orys.link/article/op)
 - [PicGo+Github图床](https://www.orys.link/article/gh2)
-- [Backblaze B2+Cloudflare+PicGo图床配置](https://www.orys.link/article/tc)
 - [Notion 常见问题](https://www.orys.link/article/np)
 - [GitHub+vercel图床](https://www.orys.link/article/gh3)
+- [Notion 插件及工具推荐](https://www.orys.link/article/nt)
 <!-- BLOG-POST-LIST:END -->
