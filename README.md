@@ -17,7 +17,12 @@ https://github-readme-stats-livid-two-38.vercel.app/api?username=soeos&show=star
 stats-readme-github.vercel.app
 -->
 
-<img src="https://stats-readme-github.vercel.app/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+<!-- <img src="https://stats-readme-github.vercel.app/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
+<img src="https://readme.ortech.us.kg/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://me.ortech.us.kg/?user=soeos&hide_border=true&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+
 
 <!-- 使用的大多数语言 -->
 <!-- 链接：https://github-readme-stats.vercel.app/api/top-langs/?username=soeos&layout=compact&theme=vue-dark
