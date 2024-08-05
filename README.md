@@ -29,7 +29,9 @@ stats-readme-github.vercel.app
 <!-- <img src="https://stats-readme-github.vercel.app/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
 <div style="float: right;width: 50%;margin-top: -52px;">
-      <img src="https://readme.ortech.us.kg/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="154"  style="margin: 5px; margin-bottom: 20px;" />
+      
+     <!-- <img src="https://readme.ortech.us.kg/api?username=soeos&show=stars,commits,prs,issues,contribs&theme=cobalt" alt="logo" height="154"  style="margin: 5px; margin-bottom: 20px;" />-->
+      <img src="https://readme.ortech.us.kg/api?username=soeos&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0" alt="logo" height="140"  style="margin: 5px; margin-bottom: 20px;" />
       <img src="https://me.ortech.us.kg/?user=soeos&hide_border=true&locale=zh_Hans&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="logo" height="140" style="margin: 5px; margin-bottom: 20px;" />
 </div>
 
