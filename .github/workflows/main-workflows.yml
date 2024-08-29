@@ -19,5 +19,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://blog.ortech.us.kg/rss/feed.xml"
+          feed_list: "https://www.orfw.eu.org/rss/feed.xml"
           max_post_count: "6"
