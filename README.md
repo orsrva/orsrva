@@ -50,10 +50,10 @@ stats-readme-github.vercel.app
 #### Latest Blog Posts | 最新博客
 
 <!-- BLOG-POST-LIST:START -->
-- [马云内部发长文：时代变了 我们必须跟上时代](blog.ortech.us.kg/article/b108fdd4-1db7-4d10-a0fc-0db2cebb9429)
-- [408实验](blog.ortech.us.kg/article/408)
-- [我们在加载你的信息流时遇到了问题](blog.ortech.us.kg/article/307cc778-3612-4e25-b204-c4187821aa1a)
-- [Code](blog.ortech.us.kg/article/code)
-- [年度总结](blog.ortech.us.kg/article/xt)
-- [机器学习相关](blog.ortech.us.kg/article/6152f552-e3c6-4ab3-8eae-2df486e70d73)
+- [Cloudflare实现内网穿透](https://www.orfw.eu.org/article/cfn)
+- [CSN的EDU邮箱申请](https://www.orfw.eu.org/article/edumail)
+- [Twikoo 评论插件](https://www.orfw.eu.org/article/twikoo)
+- [建站记录](https://www.orfw.eu.org/article/build)
+- [GitHub+vercel图床](https://www.orfw.eu.org/article/gh3)
+- [Notion 插件及工具推荐](https://www.orfw.eu.org/article/nt)
 <!-- BLOG-POST-LIST:END -->
