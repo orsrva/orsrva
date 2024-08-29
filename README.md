@@ -50,10 +50,10 @@ stats-readme-github.vercel.app
 #### Latest Blog Posts | 最新博客
 
 <!-- BLOG-POST-LIST:START -->
-- [cf内网穿透](https://www.orys.link/article/cfn)
-- [OneDrive公共网盘](https://www.orys.link/article/op)
-- [PicGo+Github图床](https://www.orys.link/article/gh2)
-- [Notion 常见问题](https://www.orys.link/article/np)
-- [GitHub+vercel图床](https://www.orys.link/article/gh3)
-- [Notion 插件及工具推荐](https://www.orys.link/article/nt)
+- [实验总结](www.orsrv.me/article/test)
+- [无需安装Anaconda的PyTorch环境](www.orsrv.me/article/pt)
+- [code](www.orsrv.me/article/5768a42e-98f6-4271-814f-b81e0fe8b74a)
+- [年度总结](www.orsrv.me/article/xt)
+- [OneDrive公共网盘](www.orsrv.me/article/one)
+- [PicGo+Github图床](www.orsrv.me/article/gh2)
 <!-- BLOG-POST-LIST:END -->
